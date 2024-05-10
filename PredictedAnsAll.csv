@@ -1,0 +1,56 @@
+SNO,,Actual Ans,Predicted Answer
+0,What is the primary cause of blindness in developing countries?,Cataracts,Cataracts
+1,Are cataracts the leading factor in blindness among developing nations?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+2,Which condition accounts for the majority of blindness cases in developing countries?,Cataracts,Cataracts
+3,Do cataracts contribute significantly to blindness rates in developing nations?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+4,Are cataracts predominantly responsible for blindness in low-income countries?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+5,"In developing nations, what is the main reason for blindness?",Cataracts,Cataracts
+6,Are cataracts the primary cause of vision loss in less economically developed regions?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+7,What is the most common cause of blindness in countries with limited resources?,Cataracts,Cataracts
+8,Do cataracts play a major role in causing blindness in the developing world?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+9,Are cataracts the primary factor behind blindness prevalence in underdeveloped areas?,Yes,"Yes, cataracts are the main cause of blindness in developing countries."
+10,What is the primary symptom of vision loss due to cataracts?,Gradual,"Vision loss due to cataracts is usually very gradual. That is the only symptom: Cataracts aren't painful and don't cause burning or any similar symptoms. People’s vision becomes increasingly blurred and cloudy, as if they are looking through fog."
+11,Are cataracts typically painful?,No,"No, cataracts are not typically painful."
+12,Do cataracts cause burning sensations or similar symptoms?,No,"No, cataracts do not cause burning or any similar symptoms."
+13,How does vision change with cataracts over time?,Blurred and cloudy,"Vision becomes increasingly blurred and cloudy, as if they are looking through fog. Contrasts and colors become less clear as time goes on. Some people become very sensitive to the glare of the sun or other bright lights. Driving becomes more difficult, particularly at night. Poor vision increases the risk of falling and hurting yourself. Spatial vision is affected as well."
+14,What happens to contrasts and colors as cataracts progress?,Less clear,Contrasts and colors become less clear as time goes on.
+15,How do some individuals react to bright lights when they have cataracts?,Sensitive,Some people become very sensitive to the glare of the sun or other bright lights.
+16,"What activity becomes more challenging, especially at night, with cataracts?",Driving,no
+17,What increased risk do individuals with poor vision due to cataracts face?,Falling,no
+18,What aspect of vision is affected besides clarity?,Spatial,Answer is not available in the context
+19,"Can cataracts cause changes in refractive power, affecting the need for glasses?",Yes,"Yes, cataracts can cause changes in refractive power, affecting the need for glasses."
+20,"What is the main cause of a ""senile"" cataract in about 90% of cases?",Aging,Aging
+21,What can cause cataracts to develop earlier in some families?,Genetic predisposition,Answer is not available in the context
+22,In what rare scenario might a baby be born with cataracts?,If the mother gets measles or rubella during pregnancy,A baby might be born with cataracts if the mother gets measles or rubella (German measles) during the pregnancy.
+23,What environmental factors may increase the risk of developing cataracts?,UV light from the sun and smoking,UV light from the sun
+24,Which medical condition is associated with a higher risk of cataracts?,Diabetes,Diabetes
+25,What factors contribute to the prevalence of cataracts in developing countries?,Malnutrition and poor living conditions,malnutrition and poor living conditions
+26,What can lead to the development of cataracts following an inflammation or injury to the eye?,Trauma,Answer is not available in the context
+27,"Besides inflammation or injury, what else can lead to the development of cataracts?",Eye surgery,Eye surgery and long-term use of certain medications
+28,What might increase the risk of cataracts after long-term use?,Certain medications,Answer is not available in the context
+29,Which long-term use might lead to cataracts?,Certain medications,Answer is not available in the context
+30,What needs to be ruled out before diagnosing cataracts due to various reasons for vision deterioration?,Other possible causes,Other possible causes need to be ruled out before cataracts can be diagnosed.
+31,What does an eye doctor typically inquire about during the initial consultation?,Symptoms and general medical history,Your eye doctor (ophthalmologist) will first ask you about your symptoms and your general  medical history.
+32,What type of examination is used to inspect the lens of the eye?,Slit lamp examination,Slit lamp examination
+33,How is the eye examined using a slit lamp described?,Close look at the lens and other eye parts with a line of light,
+34,What is used to dilate pupils for examining the back of the eye?,Medication,Medication
+35,How long do pupils typically stay dilated after medication?,A few hours,A few hours
+36,What might be affected during the time when pupils are dilated?,Difficulty focusing and increased sensitivity to light,It is difficult to focus properly and you will be more sensitive to light and glare.
+37,Why should driving be avoided for a few hours after pupil dilation?,Difficulty focusing and increased sensitivity to light,Answer is not available in the context
+38,How long is it recommended to wait before driving after pupil dilation?,4 to 5 hours,4 to 5 hours
+39,What precaution should be taken if unsure about the return of normal vision after pupil dilation?,Avoid driving,It is better not to drive.
+40,Are there specific preventive measures scientifically proven to lower the risk of developing cataracts?,No,"No, there are no scientific studies showing that particular preventive measures lower the risk of developing cataracts."
+41,"What is believed to increase the risk of cataracts, potentially decreasing with cessation?",Smoking,"Smoking is believed to increase the risk of cataracts, potentially decreasing with cessation"
+42,How can individuals exposed to significant UV light protect their eyes from the sun?,By wearing sunglasses,Individuals exposed to significant UV light can protect their eyes from the sun by wearing sunglasses.
+43,Which type of medications might increase the risk of developing cataracts?,Steroid medications,
+44,What action might be considered regarding steroid medications and cataract risk?,Switching to a different medication,It might be possible to switch to a different medication.
+45,What options do some individuals have to compensate for vision loss caused by cataracts?,Wearing glasses or contact lenses,Some individuals can compensate for the vision loss caused by cataracts by wearing glasses or contact lenses.
+46,Are there medications available for the treatment of cataracts?,No,"No, there are no medications available for the treatment of cataracts."
+47,What is the only effective treatment for cataracts?,Surgery,The only effective treatment for cataracts is surgery.
+48,What does cataract surgery involve?,Removing the cloudy lens and replacing it with an artificial lens,Cataract surgery involves removing the cloudy lens and replacing it with an artificial lens.
+49,What part of the eye is left intact during cataract surgery?,Lens capsule,lens capsule
+50,How are the cloudy portions of the lens removed during surgery?,Broken up into small pieces using ultrasound,
+51,What is implanted into the lens capsule after the cloudy lens is removed?,Artificial lens,An artificial lens is implanted into the lens capsule after the cloudy lens is removed.
+52,What is the standard surgical technique for cataract removal in some countries?,Phacoemulsification,Phacoemulsification
+53,"In addition to phacoemulsification, what other surgical option is sometimes offered for cataracts?",Laser surgery,Laser surgery
+54,What is the standard surgical technique for cataract removal in some countries?,Phacoemulsification,Phacoemulsification
